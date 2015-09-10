@@ -98,6 +98,11 @@ textarea {
     background: #003D4C;
 }
 
+.main-title {
+    position: absolute;
+    z-index: 1;
+}
+
 /** Custom Buttons **/
 .sectionButton {
     position: absolute;
